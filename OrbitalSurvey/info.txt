@@ -1,0 +1,3 @@
+Program made by Joeri Brinks @ https://github.com/JoeriDEV
+
+Scans a random string of base 2 numbers, divides them and checks what row is the highest.
