@@ -27,6 +27,9 @@ for x in data:
             n += 1
             f = 0
             break
-        
+
 # print the answer
-print(ans)
+if ans > h:
+    print(h)
+else:
+    print(ans)
